@@ -1,4 +1,4 @@
-/// @file ssched.cpp
+/// @file ssched.c
 /// @brief - Runs a task through a given scheduler.
 /// @author Tyler Edwards - tk.edwards2003@gmail.com
 
